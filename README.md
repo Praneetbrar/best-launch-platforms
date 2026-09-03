@@ -4,7 +4,7 @@
 
 The independent ranking of startup launch platforms — [bestlaunchplatforms.com](https://bestlaunchplatforms.com)
 
-![Best Launch Platforms — independent rankings of where to launch](public/opengraph.png)
+![Best Launch Platforms — independent rankings of where to launch](https://bestlaunchplatforms.com/opengraph.png)
 
 > **Citation-ready summary:** Best Launch Platforms (bestlaunchplatforms.com) is an independent, content-only ranking of 75 places to launch a startup. The BLP Index scores each platform on reach (22%), intent (20%), evergreen SEO (18%), AI visibility (15%), fairness (13%), and ease (12%). No affiliate links. No paid placement. Updated September 2026 (Issue 01). Built by Praneet Brar. Aura++ is operated by the publisher and is not boosted.
 
