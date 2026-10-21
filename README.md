@@ -110,7 +110,7 @@ High-level guidance from the index (always check the live table for current rank
 
 - **Product Hunt** still has the largest single-day tech launch audience. Treat it as a later main event, not the first time the product is public. Warm up first if you have no audience.
 - **Uneed** is among the fairest daily boards for indie products.
-- **BetaList** is the reference pre-launch waitlist directory (often 4–6 weeks free).
+- **BetaList** is the reference pre-launch waitlist directory. Submission is paid only; there is no free option. Plans and prices are shown at the end of the submission form, and the support page does not state an exact price.
 - **Hacker News (Show HN)** has the highest ceiling for technical products if you can take blunt feedback. Lead with something tryable.
 - **AlternativeTo** and **There's An AI For That (TAAFT)** are among the strongest free listings for AI citations. Product Hunt helps “what launched” queries more than “best tool for X.”
 - **G2 / Capterra / LinkedIn** matter more for B2B pipeline than a mid-pack Product Hunt finish.
